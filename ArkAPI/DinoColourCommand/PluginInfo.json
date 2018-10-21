@@ -1,0 +1,7 @@
+{
+  "FullName":"Dino Colour Command",
+  "Description":"Ability to colour dino's as a player",
+  "Version":1.3,
+  "MinApiVersion":2.5,
+  "ResourceId":3
+}

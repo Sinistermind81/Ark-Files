@@ -1,0 +1,7 @@
+{
+  "FullName":"Plugin Update Checker",
+  "Description":"Checks for updates",
+  "Version":1.3,
+  "MinApiVersion":2.4,
+  "ResourceId":23
+}

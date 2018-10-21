@@ -1,0 +1,10 @@
+{
+  "FullName":"Ark Shop",
+  "Description":"Shop, Currency & Kits",
+  "Version":2.5,
+  "MinApiVersion":2.6,
+  "ResourceId":14,
+  "Dependencies":[
+    "Permissions"
+  ]
+}

@@ -1,0 +1,6 @@
+{  
+   "PluginChecker":{  
+      "DiscordUseWebHooks":false,
+      "DiscordWebHookURL":""
+   }
+}

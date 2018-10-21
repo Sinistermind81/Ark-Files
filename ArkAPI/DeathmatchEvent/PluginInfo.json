@@ -1,0 +1,10 @@
+{
+  "FullName":"DeathMatchEvent",
+  "Description":"DM Event",
+  "Version":2.0,
+  "MinApiVersion":2.5,
+  "ResourceId":34,
+  "Dependencies":[
+    "AZEventManager"
+  ]
+}

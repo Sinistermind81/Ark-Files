@@ -1,0 +1,18 @@
+{
+	"Interval": 60,
+	"WinPercentage": 75,
+	"AnnounceBuy": false,
+	"Messages": {
+		"prefix": "Lottery",
+		"StillOpen": "The Lottery is another {} minutes open. Use /lottery to buy a ticket",
+		"WinnerMessage": "{} just won the Lottery! ",
+		"NotEnoughPlayers": "Not enough players joined the Lottery aborting...",
+		"AlreadyRunning": "There is already a Lottery running!",
+		"Started": "A Lottery has been started! Ticket price: {} points. Use /lottery to buy a ticket",
+		"AlreadyBought": "You've already bought a ticket!",
+		"Rolled": "You've rolled a {} Good Luck!",
+		"NotEnoughPoints": "You don't have enough points to join the lottery!",
+		"NotRunning": "There is currently no lottery running!",
+		"BuyAnnouncement": "{} has bought a ticket!"
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "ServerKey":"",
+  "ShopPoints":20,
+  "Cooldown":30,
+  "ItemsConfig":{
+    "Items":[
+      {
+        "Amount":1,
+        "Quality":0,
+        "ForceBlueprint":false,
+        "Blueprint":"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarnoSaddle.PrimalItemArmor_CarnoSaddle'"
+      }
+    ],
+    "Dinos":[
+      {
+        "Level":10,
+        "Blueprint":"Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP'"
+      }
+    ]
+  },
+  "Messages":{
+    "Sender":"VoteRewards",
+	"Command":"/votereward",
+    "RequestFailed":"<RichColor Color=\"1, 0, 0, 1\">Server {}: Request has failed, please try again later</>",
+    "VoteNotFound":"<RichColor Color=\"1, 0, 0, 1\">Server {}: Your vote wasn't found</>",
+    "VoteClaimed":"<RichColor Color=\"1, 0, 0, 1\">Server {}: Your reward has already been claimed</>",
+    "VoteNotClaimed":"<RichColor Color=\"1, 0, 0, 1\">Server {}: Your vote has not been claimed</>",
+    "SuccessfullyClaimed":"<RichColor Color=\"0, 1, 0, 1\">Server {}: You have successfully claimed your reward</>",
+    "CheckingVote":"Checking vote for server {0}..",
+	"CooldownMsg":"<RichColor Color=\"1, 0, 0, 1\">Cooldown {} seconds</>"
+  }
+}

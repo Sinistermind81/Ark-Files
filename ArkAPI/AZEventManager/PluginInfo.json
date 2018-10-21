@@ -1,0 +1,10 @@
+{
+  "FullName":"Event Manager",
+  "Description":"Automatically run custom events.",
+  "Version":2.0,
+  "MinApiVersion":2.5,
+  "ResourceId":33,
+  "Dependencies":[
+    "ArkShop"
+  ]
+}

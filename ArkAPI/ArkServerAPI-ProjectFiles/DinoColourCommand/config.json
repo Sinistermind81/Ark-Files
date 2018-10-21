@@ -1,0 +1,6 @@
+{
+  "DinoColourCommand":{
+    "RequireAdmin":false,
+    "RequirePermission":true
+  }
+}

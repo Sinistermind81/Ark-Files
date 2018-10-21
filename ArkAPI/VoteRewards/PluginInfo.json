@@ -1,0 +1,6 @@
+{
+  "FullName":"Vote Rewards",
+  "Description":"Rewards players who vote for your server",
+  "Version":1.2,
+  "MinApiVersion":2.7
+}
