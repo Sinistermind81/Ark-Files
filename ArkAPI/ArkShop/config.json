@@ -21,7 +21,7 @@
     "ItemsPerPage": 15,
     "ShopDisplayTime": 25.0,
     "ShopTextSize": 1.3,
-    "DbPathOverride": "",
+    "DbPathOverride": "C:\\MerQ Squad Gaming Servers\\Ark-Survival\\ARKApiCluster\\Shop",
     "DefaultKit": "Starter,Donors,Subscribers"
   },
   "Kits": {
